@@ -1,6 +1,6 @@
 ## Introduction
 
-In this notebook, you'll use the [Pomegranate](https://github.com/jmschrei/pomegranate) library to build a hidden Markov model (HMM) for part of speech tagging with a [universal tagset](http://www.petrovi.de/data/universal.pdf). 
+In this notebook, you'll use the [Pomegranate](https://github.com/jmschrei/pomegranate) library to build a hidden Markov model (HMM) for part of speech tagging (pos-tagging) with a [universal tagset](http://www.petrovi.de/data/universal.pdf). 
 
 Hidden Markov models have been able to achieve >96% tag accuracy with larger tagsets on realistic text corpora. 
 
